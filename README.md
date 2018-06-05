@@ -1,6 +1,6 @@
 # RedisManage
 python版本redis集群管理工具，使用WSGI协议不依赖其他外部服务，简洁快速。\<br>  
-'''\<br>  
+'''\  
 >>@Version:0.1Beta\<br>  
 >>@auther:zhaofangcheng\<br>  
 >>@e-mail:zhaofangcheng@126.com\<br>  
