@@ -2,7 +2,7 @@
 python版本redis集群管理工具，使用WSGI协议不依赖其他外部服务，简洁快速。\<br>  
 '''
 >>@Version:0.1Beta\<br>  
->>@auther:zhaofangcheng\<br>    
+>>@author:zhaofangcheng\<br>    
 >>@e-mail:zhaofangcheng@126.com\<br>  
 >>依赖类库：\<br>  
 >>>>>async_timeout-3.0.0-py3-none-any.whl\<br>  
